@@ -1,0 +1,6 @@
+{
+  "name": "PDFMaster - All-in-One PDF Tools",
+  "description": "A comprehensive suite of PDF tools including merging, splitting, compressing, converting, and AI-powered summarization and translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
